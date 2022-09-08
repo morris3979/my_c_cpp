@@ -1,0 +1,3 @@
+
+character       space          Newline
+	  137    		9          		12
